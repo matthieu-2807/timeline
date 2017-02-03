@@ -21,7 +21,7 @@ var DataService = (function () {
                 'date': '2017-01-01',
                 'group': 'RH',
                 'className': 'ressourceHumaine',
-                'content': '3',
+                'content': '1',
                 'label': 'Evènement RH',
                 'editable': 'false'
             },
@@ -55,7 +55,7 @@ var DataService = (function () {
             {
                 'id': '5',
                 'date': '2017-01-25',
-                'group': 'RH',
+                'group': 'commercial',
                 'className': 'ressourceHumaine',
                 'content': '1',
                 'label': 'Recrutement',

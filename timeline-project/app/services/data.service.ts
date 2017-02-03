@@ -13,7 +13,7 @@ export class DataService {
             'date': '2017-01-01',
             'group': 'RH',
             'className': 'ressourceHumaine',
-            'content': '3',
+            'content': '1',
             'label': 'Evènement RH',
             'editable': 'false'
         },
@@ -47,7 +47,7 @@ export class DataService {
         {
             'id': '5',
             'date': '2017-01-25',
-            'group': 'RH',
+            'group': 'commercial',
             'className': 'ressourceHumaine',
             'content': '1',
             'label': 'Recrutement',
